@@ -1,1 +1,14 @@
-Hola probando la command line
+
+****		CREAR UN REEPOSITORIO REMOTO EN GITHUB		****
+
+-Copiar el https del repositorio.
+
+-Dentro del directorio, se crea el repositorio remoto:
+	-git remote add origin URLCOPIADOANTES(Para crear primero el remoto)
+	(origin es el nombre del remote, nombre generico y que se pone por convencion)
+	-git push -u origin master
+	(Pushea el local repository al remote repository, donde origin es el nombre del remote
+	y master el el name of branch)
+
+		
+	

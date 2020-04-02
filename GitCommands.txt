@@ -26,4 +26,8 @@ git add .		Agrega todos los archivos del repositorio al stagin.
 
 git diff ARCHIVO	Muestra la diferencia entre el archivo actual y su version anterior,los cambios
 
-git checkout ARCHIVO	Restaura a la version anterior commited en el repositorio.	 
+git checkout ARCHIVO	Restaura a la version anterior commited en el repositorio.
+
+git remote add origin URL	Crea un repositorio remoto en GitHub
+
+git push -u origin master	Manda los datos del repositorio local al remoto(GitHub)
