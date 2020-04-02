@@ -1,0 +1,24 @@
+ls -a			Muestra una lista con los archivos ocultos inclusive.
+
+cd ~			Vuelve al root directamente
+
+rm			Remove file
+
+pwd			Muestra el path de donde estas.
+
+rm*			Remove All.
+
+clear			Limpia la pantalla
+
+git init		Inicia el git.
+
+git status		Muestra que archivos estan o no en la stagin area.
+
+git add ARCHIVO		Agrega archivos al stagin area.
+
+git commit -m "Commit"	Agrega el titulo descriptivo del commit, indicando cuales son los nuevos cambios.
+				(siempre en presente)
+
+git log			Muestra los commit realizados, todos los cambios ya entrados del stagin area.
+
+
