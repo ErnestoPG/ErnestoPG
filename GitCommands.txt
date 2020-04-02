@@ -22,3 +22,8 @@ git commit -m "Commit"	Agrega el titulo descriptivo del commit, indicando cuales
 git log			Muestra los commit realizados, todos los cambios ya entrados del stagin area.
 
 
+git add .		Agrega todos los archivos del repositorio al stagin.
+
+git diff ARCHIVO	Muestra la diferencia entre el archivo actual y su version anterior,los cambios
+
+git checkout ARCHIVO	Restaura a la version anterior commited en el repositorio. 
